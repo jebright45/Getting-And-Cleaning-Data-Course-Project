@@ -129,7 +129,7 @@ View(activitydataset4)                  # Looks good. The levels seem to have ov
 
 
 
-###  Now Taking the last iteration of the data set and caluclating averages for each subject in each column  #########################################################
+###  Now Taking the last iteration of the data set and calculating averages for each subject in each column  #########################################################
 
 # Thinking through what I need to do here. So, I need to have a data set with rows for 30 subjects times 6 activities for each subject. That comes to a total of...
 # 180 rows. The number of columns should be 81 still because we have a column for the subject, the activity, and all the features. So, what I have to do is...
