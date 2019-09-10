@@ -2,6 +2,12 @@ COURSE PROJECT README
 
 Using data from Human Activity Recognition Using Smartphones Dataset Version 1.0, followed course instructions to pull together data gathered by smartphones. (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012).
 
+My project respository will contain the following files:
+=========================================
+- 'README.txt'
+- '
+- 'run_analysis.R'
+-
 
 Description of project and how data was gathered from the README of:
 ==================================================================
@@ -25,10 +31,3 @@ For each record it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
-
-My project respository will contain the following files:
-=========================================
-- 'README.txt'
--
-- 'run_analysis.R'
--
