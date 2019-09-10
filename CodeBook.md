@@ -1,6 +1,6 @@
 COURSE PROJECT README 
 
-Using data from Human Activity Recognition Using Smartphones Dataset Version 1.0, followed course instructions to pull together data gathered by smartphones. (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012).
+Using data from Human Activity Recognition Using Smartphones Dataset Version 1.0, I followed course instructions to pull together data gathered by smartphones. (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012).
 
 My project respository will contain the following files:
 =========================================
