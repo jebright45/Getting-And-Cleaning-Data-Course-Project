@@ -1,6 +1,6 @@
 COURSE PROJECT README 
 
-Using data from Human Activity Recognition Using Smartphones Dataset Version 1.0, I followed course instructions to pull together data gathered by smartphones. (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012). I also referenced David Hood's blog post https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/ for FAQ on the project.
+Using data from Human Activity Recognition Using Smartphones Dataset Version 1.0, I followed course instructions to pull together data gathered by smartphones. (Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012). I also referenced David Hood's blog post https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/ for FAQ on the project. This article answered helpful information such as whether it was necessary to dowload the inertial data. Because only data with means and std's were going to be subsetted, the inertial data was unneccesary to download.
 
 First, in the opening section entitled "Putting the train data together in one data frame," I combined the training data together. The training data was made up of X_train, y_train, and subject_train. These files had data from the movement recordings, activities, and subject ids respectively. 
 
