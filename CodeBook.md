@@ -8,7 +8,7 @@ My Project repository will contain the following files:
 - 'run_analysis.R'
 - 'tidydata.txt'
 
-I chose the following features from the full set provided because each had to do with calculations of mean or std. The features that included the word "mean" that I excluded were the 7 Angle calculations that inlcuded previous mean calculations but did not compute means themselves:
+The set of variables that were estimated from these signals are: mean(): Mean value and std(): Standard deviation. I chose the following features from the full set provided because each had to do with calculations of mean or std. The features that included the word "mean" that I excluded were the 7 Angle calculations that inlcuded previous mean calculations but did not compute means themselves:
 - subjectids
 -	activitycodes
 -	tBodyAcc.mean...X
